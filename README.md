@@ -1,4 +1,4 @@
-PowerBI_App-Insight-Analysis
+## PowerBI_App-Insight-Analysis
 
 he analysis of the Google Play Store dataset highlights several critical factors that contribute to app success. The results indicate that high user ratings, substantial review volume, optimized app size, and well-designed pricing strategies significantly influence both app installs and user satisfaction. While popular applications naturally attract a higher number of installs, the findings suggest that strong ratings are driven primarily by app quality, usability, and consistent performance rather than popularity alone. This underscores the importance of delivering a reliable and user-centric experience to achieve sustained success in the competitive app marketplace.
 
