@@ -4,6 +4,8 @@ Project Summary
 I developed two comprehensive analytical dashboards to evaluate the Google Play Store ecosystem, focusing on app performance, user engagement, and market trends. I transformed raw data into actionable insights to understand how factors like category, rating, and pricing impact an app's success.
 
 What I Did
+
+
 Market Distribution & Monetization: I analyzed the split between free and paid apps, discovering that approximately 92.61% of the market consists of free apps.
 
 Audience Segmentation: I categorized apps by content rating and found that the "Everyone" segment is the largest, containing over 8.7k apps.
