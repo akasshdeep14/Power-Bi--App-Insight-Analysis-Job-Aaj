@@ -3,7 +3,7 @@
 Project Summary
 I developed two comprehensive analytical dashboards to evaluate the Google Play Store ecosystem, focusing on app performance, user engagement, and market trends. I transformed raw data into actionable insights to understand how factors like category, rating, and pricing impact an app's success.
 
-What I Did
+## What I Did
 
 
 Market Distribution & Monetization: I analyzed the split between free and paid apps, discovering that approximately 92.61% of the market consists of free apps.
@@ -18,7 +18,9 @@ Temporal Trend Tracking: I visualized the App Update Trend, which revealed a sig
 
 Genre Comparison: I evaluated 33 different categories to find that genres like "Tools" and "Entertainment" maintain high average ratings despite high competition.
 
-Tools I Used
+## Tools I Used
+
+
 Tableau: I utilized Tableau to create the first dashboard, leveraging its ability to bin numeric data (like installs) and create time-series line charts for update trends.
 
 Power BI: I built the second dashboard in Power BI, using interactive slicers for content ratings and price types, as well as donut charts for percentage breakdowns.
